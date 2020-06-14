@@ -1,0 +1,9 @@
+{
+	"Phi": 0.2,
+	"accuracy": 0.9,
+	"block_duration": 50,
+	"n-point": 256,
+	"phrases": ["Down", "Fire", "Left", "Right", "Stop", "Up"],
+	"samplerate": -1,
+	"rmsAccuracy": 0.1
+}
